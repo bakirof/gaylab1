@@ -1,0 +1,4 @@
+D:\.net_remoting\4\ChatRoom\RemoteBase\RemoteBase\bin\Release\RemoteBase.dll
+D:\.net_remoting\4\ChatRoom\RemoteBase\RemoteBase\bin\Release\RemoteBase.pdb
+D:\.net_remoting\4\ChatRoom\RemoteBase\RemoteBase\obj\Release\RemoteBase.dll
+D:\.net_remoting\4\ChatRoom\RemoteBase\RemoteBase\obj\Release\RemoteBase.pdb

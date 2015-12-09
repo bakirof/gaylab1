@@ -1,0 +1,33 @@
+D:\.net_remoting\4\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemotingClient.exe
+D:\.net_remoting\4\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemotingClient.pdb
+D:\.net_remoting\4\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemoteBase.dll
+D:\.net_remoting\4\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemoteBase.pdb
+D:\.net_remoting\4\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csprojResolveAssemblyReference.cache
+D:\.net_remoting\4\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.frmChatWin.resources
+D:\.net_remoting\4\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.frmLogin.resources
+D:\.net_remoting\4\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.Properties.Resources.resources
+D:\.net_remoting\4\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.GenerateResource.Cache
+D:\.net_remoting\4\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.exe
+D:\.net_remoting\4\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.pdb
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.exe
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.pdb
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemotingClient.exe
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemotingClient.pdb
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemoteBase.dll
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemoteBase.pdb
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csprojResolveAssemblyReference.cache
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.frmChatWin.resources
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.frmLogin.resources
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.Properties.Resources.resources
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.GenerateResource.Cache
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.exe
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.pdb
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemotingClient.exe
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemotingClient.pdb
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemoteBase.dll
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\bin\Debug\RemoteBase.pdb
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csprojResolveAssemblyReference.cache
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.frmChatWin.resources
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.frmLogin.resources
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.Properties.Resources.resources
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemotingClient\RemotingClient\obj\Debug\RemotingClient.csproj.GenerateResource.Cache

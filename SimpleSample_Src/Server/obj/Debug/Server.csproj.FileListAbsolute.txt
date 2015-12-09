@@ -1,0 +1,10 @@
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Server\bin\Debug\Server.exe.config
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Server\bin\Debug\Server.exe
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Server\bin\Debug\Server.pdb
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Server\bin\Debug\RemoteObject.dll
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Server\bin\Debug\RemoteObject.pdb
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Server\obj\Debug\Server.Listener.resources
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Server\obj\Debug\Server.exe
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Server\obj\Debug\Server.pdb

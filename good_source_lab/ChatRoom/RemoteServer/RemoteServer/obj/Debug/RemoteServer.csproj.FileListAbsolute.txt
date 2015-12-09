@@ -1,0 +1,30 @@
+D:\.net_remoting\4\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Form1.resources
+D:\.net_remoting\4\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+D:\.net_remoting\4\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.Cache
+D:\.net_remoting\4\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+D:\.net_remoting\4\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+D:\.net_remoting\4\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.dll
+D:\.net_remoting\4\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.pdb
+D:\.net_remoting\4\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+D:\.net_remoting\4\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+D:\.net_remoting\4\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.dll
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.pdb
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Form1.resources
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+C:\Users\vvitcher\Desktop 3\Технологии распределенной обработки данных - Гай В.Е\лб1\good_source_lab\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.Cache
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.dll
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemoteServer\RemoteServer\bin\Debug\RemoteBase.pdb
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csprojResolveAssemblyReference.cache
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Form1.resources
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.Properties.Resources.resources
+C:\Cloud\C_sharp\VGAY\1\good_source_lab\ChatRoom\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.GenerateResource.Cache

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RemoteBase">
+</Property><Property Name="Файл решения" Value="D:\.net_remoting\4\ChatRoom\RemoteBase\RemoteBase.sln">
+</Property><Property Name="Файл параметров пользователя" Value="D:\.net_remoting\4\ChatRoom\RemoteBase\RemoteBase.suo">
+</Property><Property Name="Date" Value="1 сентября 2014 г.">
+</Property><Property Name="Time" Value="23:42">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RemoteBase.sln" Description="Успешно создана резервная копия файла D:\.net_remoting\4\ChatRoom\RemoteBase\Backup\RemoteBase.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RemoteBase.suo" Description="Успешно создана резервная копия файла D:\.net_remoting\4\ChatRoom\RemoteBase\Backup\RemoteBase.suo">
+</Event><Event ErrorLevel="0" Project="RemoteBase" Source="RemoteBase\RemoteBase.csproj" Description="Успешно создана резервная копия файла проекта: D:\.net_remoting\4\ChatRoom\RemoteBase\Backup\RemoteBase\RemoteBase.csproj">
+</Event><Event ErrorLevel="0" Project="RemoteBase" Source="RemoteBase\RemotingObject.cs" Description="Успешно создана резервная копия файла D:\.net_remoting\4\ChatRoom\RemoteBase\Backup\RemoteBase\RemotingObject.cs">
+</Event><Event ErrorLevel="0" Project="RemoteBase" Source="RemoteBase\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла D:\.net_remoting\4\ChatRoom\RemoteBase\Backup\RemoteBase\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="1" Project="RemoteBase" Source="RemoteBase\RemoteBase.csproj" Description="Этот проект рассчитан на .NET Framework версии 2.0 или 3.0. Если проект будет использовать сборки, требующие более новую версию .NET Framework, возникнет ошибка построения. Чтобы изменить версию .NET Framework, выберите пункт &quot;Свойства&quot; в меню проекта, затем выберите новую версию в раскрывающемся списке &quot;.NET Framework&quot;. (В Visual Basic этот список находится на вкладке &quot;Компиляция&quot;, открываемой при нажатии кнопки &quot;Дополнительные параметры компилятора&quot;.)">
+</Event><Event ErrorLevel="0" Project="RemoteBase" Source="RemoteBase\RemoteBase.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="RemoteBase" Source="RemoteBase\RemoteBase.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RemoteBase.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="RemoteBase.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RemoteBase" Source="RemoteBase\RemoteBase.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

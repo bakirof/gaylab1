@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RemoteServer">
+</Property><Property Name="Файл решения" Value="D:\.net_remoting\4\ChatRoom\RemoteServer\RemoteServer.sln">
+</Property><Property Name="Файл параметров пользователя" Value="D:\.net_remoting\4\ChatRoom\RemoteServer\RemoteServer.suo">
+</Property><Property Name="Date" Value="1 сентября 2014 г.">
+</Property><Property Name="Time" Value="23:42">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RemoteServer.sln" Description="Успешно создана резервная копия файла D:\.net_remoting\4\ChatRoom\RemoteServer\Backup\RemoteServer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RemoteServer.suo" Description="Успешно создана резервная копия файла D:\.net_remoting\4\ChatRoom\RemoteServer\Backup\RemoteServer.suo">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\RemoteServer.csproj" Description="Успешно создана резервная копия файла проекта: D:\.net_remoting\4\ChatRoom\RemoteServer\Backup\RemoteServer\RemoteServer.csproj">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\Form1.cs" Description="Успешно создана резервная копия файла D:\.net_remoting\4\ChatRoom\RemoteServer\Backup\RemoteServer\Form1.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\Form1.Designer.cs" Description="Успешно создана резервная копия файла D:\.net_remoting\4\ChatRoom\RemoteServer\Backup\RemoteServer\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\Program.cs" Description="Успешно создана резервная копия файла D:\.net_remoting\4\ChatRoom\RemoteServer\Backup\RemoteServer\Program.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла D:\.net_remoting\4\ChatRoom\RemoteServer\Backup\RemoteServer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла D:\.net_remoting\4\ChatRoom\RemoteServer\Backup\RemoteServer\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла D:\.net_remoting\4\ChatRoom\RemoteServer\Backup\RemoteServer\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\Properties\Settings.settings" Description="Успешно создана резервная копия файла D:\.net_remoting\4\ChatRoom\RemoteServer\Backup\RemoteServer\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\Form1.resx" Description="Успешно создана резервная копия файла D:\.net_remoting\4\ChatRoom\RemoteServer\Backup\RemoteServer\Form1.resx">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\Properties\Resources.resx" Description="Успешно создана резервная копия файла D:\.net_remoting\4\ChatRoom\RemoteServer\Backup\RemoteServer\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="RemoteServer" Source="RemoteServer\RemoteServer.csproj" Description="Этот проект рассчитан на .NET Framework версии 2.0 или 3.0. Если проект будет использовать сборки, требующие более новую версию .NET Framework, возникнет ошибка построения. Чтобы изменить версию .NET Framework, выберите пункт &quot;Свойства&quot; в меню проекта, затем выберите новую версию в раскрывающемся списке &quot;.NET Framework&quot;. (В Visual Basic этот список находится на вкладке &quot;Компиляция&quot;, открываемой при нажатии кнопки &quot;Дополнительные параметры компилятора&quot;.)">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\RemoteServer.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="RemoteServer" Source="RemoteServer\RemoteServer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RemoteServer.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="RemoteServer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RemoteServer" Source="RemoteServer\RemoteServer.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

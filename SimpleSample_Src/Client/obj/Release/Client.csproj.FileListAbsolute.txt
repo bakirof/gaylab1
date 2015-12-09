@@ -1,0 +1,11 @@
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Client\bin\Release\Client.exe.config
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Client\bin\Release\Client.exe
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Client\bin\Release\Client.pdb
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Client\bin\Release\RemoteObject.dll
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Client\bin\Release\RemoteObject.pdb
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Client\obj\Release\Sample.Client.Client.resources
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Client\obj\Release\Client.Properties.Resources.resources
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Client\obj\Release\Client.exe
+C:\Cloud\C_sharp\VGAY\1\SimpleSample_Src\Client\obj\Release\Client.pdb
